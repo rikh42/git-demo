@@ -1,0 +1,3 @@
+web1: 
+  name: website
+  document_root: htdocs
