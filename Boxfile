@@ -1,3 +1,4 @@
 web1: 
   name: website
   document_root: htdocs
+  php_version: 5.3.10
